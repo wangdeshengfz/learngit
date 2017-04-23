@@ -3,3 +3,4 @@ dev1 add
 dev1 add 2
 dev1 add 3 dev1 add 3
 dev1 add 4
+add master 1
